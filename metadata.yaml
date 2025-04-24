@@ -1,0 +1,34 @@
+_repo: Self-and-self-management-b-Essays-about-existing_75928
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bennett, Arnold
+    aliases:
+    - Bennett, Enoch Arnold
+    - Bennett, E. Arnold
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '859'
+    url: http://www.gutenberg.org/2009/agents/859
+    wikipedia: https://en.wikipedia.org/wiki/Arnold_Bennett
+description: ''
+gutenberg_issued: '2025-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75928'
+language: en
+pgterms:marc904: https://archive.org/details/selfselfmanageme0000benn/page/n7/mode/2up
+pgterms:marc905: 20240627151709bennett
+pgterms:marc906: '1918'
+pgterms:marc907: GB
+production_note: Mairi, Laura Natal and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aLondon :$bHodder and Stoughton, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Self and self-management : $b Essays about existing'
+url: http://www.gutenberg.org/ebooks/75928
